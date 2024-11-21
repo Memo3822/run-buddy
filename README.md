@@ -13,3 +13,6 @@ A website that offers fitness training services
 
 ##Contribution
 Made with <3 by Me
+
+
+###  ©️2019 Run Buddy, Inc 
