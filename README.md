@@ -8,4 +8,8 @@ A website that offers fitness training services
 *CSS
 
 ## Website
-http
+[http
+(https://memo3822.github.io/run-buddy/
+
+##Contribution
+Made with <3 by Me
