@@ -419,7 +419,7 @@ section {
     font-weight: bold;
 }
 
-@media screen and (max-width:786px) {
+/*@media screen and (max-width:786px) {
 
     .service-grid-container {
         grid-template-columns: 1fr 1fr;
@@ -441,3 +441,5 @@ section {
     }
     
 }
+
+*/
